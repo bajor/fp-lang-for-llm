@@ -11,6 +11,7 @@ https://arxiv.org/abs/2505.13453
 - declarative? 
 - should compile to purely fp lang
 - there should be cleaning pipeline - that corrects any misspels or small syntax mistakes of LLM
+- do not use similar keywords to "limit halucination". Do not use `==` and `=`, do not use similar symbols.
 
 
 
